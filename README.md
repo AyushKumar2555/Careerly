@@ -7,7 +7,7 @@ Careerly is a modern job listing platform built to simplify the connection betwe
 - HTML  
 - CSS  
 - JavaScript  
-- (Optional: Tailwind CSS / React / Firebase)
+- Tailwind CSS 
 
 ## ✨ Features
 
@@ -19,8 +19,3 @@ Careerly is a modern job listing platform built to simplify the connection betwe
 - (Optional: Apply Now button, login/signup, database integration)
 
 ## 📸 Screenshots
-
-*(Add screenshots here if available)*
-
-## 📁 Folder Structure
-
